@@ -1,5 +1,5 @@
 - Hi, I’m Joao Pedro Sahil Savio Desouza aka Sahil
-- I’m Previosly Worked as a Product Developer for Harman India which provided solutions for JLR
+- I’m Previously Worked as a Product Developer for Harman India which provided solutions for JLR (Jaguar Cars)
 - I'm currently working  pursuing my MSc at Newcastle University
 
 <!---
